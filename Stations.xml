@@ -261,13 +261,6 @@
     </Paths>
     <Location Long="120.310930" Lat="30.411679" />
   </Station>
-  <Station ID="" CName="湘湖" EName="Xianghu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="滨康路" No="1" To="下沙江滨" Start="6:09" End="22:40" />
-      <Path Next="滨康路" No="1" To="临平" Start="6:04" End="22:50" />
-    </Paths>
-    <Location Long="120.241073" Lat="30.174498" />
-  </Station>
   <!-- 二号线 -->
   <Station ID="" CName="朝阳" EName="Zhaoyang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>

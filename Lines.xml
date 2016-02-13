@@ -35,7 +35,7 @@
       <Station CName="翁梅" />
       <Station CName="余杭高铁站" />
       <Station CName="南苑" />
-      <Station CName="临安" />
+      <Station CName="临平" />
     </Stations>
   </Line>
   <Line No="2" Name="号线" ColorHex="#FF8700" From="朝阳" To="钱江路" Warning="">
@@ -51,7 +51,7 @@
       <Station CName="振宁路" />
       <Station CName="飞虹路" />
       <Station CName="盈丰路" />
-      <Station CName="钱江世纪城" />
+      <!-- <Station CName="钱江世纪城" /> -->
       <Station CName="钱江路" />
     </Stations>
   </Line>
