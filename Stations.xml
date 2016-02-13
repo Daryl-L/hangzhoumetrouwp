@@ -126,8 +126,8 @@
       <Path Next="彭埠" No="1" To="下沙江滨" Start="6:24" End="23:16" />
       <Path Next="彭埠" No="1" To="临平" Start="6:18" End="23:27" />
       <Path Next="闸弄口" No="1" To="湘湖" Start="6:06" End="23:11" />
-      <Path Next="彭埠" No="1" To="彭埠" Start="6:34" End="23:25" />
-      <Path Next="新风" No="1" To="近江" Start="6:24" End="23:45" />
+      <Path Next="彭埠" No="4" To="彭埠" Start="6:34" End="23:25" />
+      <Path Next="新风" No="4" To="近江" Start="6:24" End="23:45" />
     </Paths>
     <Location Long="120.218517" Lat="30.296271" />
   </Station>
@@ -136,7 +136,7 @@
       <Path Next="七堡" No="1" To="下沙江滨" Start="6:26" End="23:18" />
       <Path Next="七堡" No="1" To="临平" Start="6:20" End="23:29" />
       <Path Next="火车东站" No="1" To="湘湖" Start="6:04" End="23:09" />
-      <Path Next="火车东站" No="1" To="近江" Start="6:22" End="23:42" />
+      <Path Next="火车东站" No="4" To="近江" Start="6:22" End="23:42" />
     </Paths>
     <Location Long="120.230675" Lat="30.300672" />
   </Station>
